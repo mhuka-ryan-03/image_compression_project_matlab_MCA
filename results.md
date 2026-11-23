@@ -3,7 +3,7 @@
 ## Original vs Compressed Images
 ![Original vs Compressed](result_images.png)
 
-Rank 5 is very blurry. As rank increases to 100, the image becomes clear and close to the original.
+Rank 5 is very blurry. As rank increases to 100, the image becomes clear and close to the original..
 
 ## Reconstruction Error and Storage Graphs
 ![Results Graphs](result_graphs.png)
